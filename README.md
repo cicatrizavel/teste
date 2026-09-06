@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1 align="center" style="font-family: cursive; color: #8B0000;">Liox Dev</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Liox+Dev" alt="Typing SVG" />
+</p>
 
 <br>
 
