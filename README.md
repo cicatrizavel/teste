@@ -38,7 +38,7 @@
 
 ### Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts" />
 </p>
 
