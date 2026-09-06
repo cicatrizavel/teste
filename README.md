@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="_ (1).jpeg" width="90%"/>
+<img src="https://pin.it/3HBsy8K0y" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
