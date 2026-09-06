@@ -11,10 +11,12 @@
 <td width="50%" align="center" valign="top">
 
 <pre>
-୨ৎ Class → Backend                 
-୨ৎ Origin → Brazil                 
-୨ৎ Stack → Python / FastAPI / Flask
-୨ৎ Studying → SQLAlchemy / SQL     
+╋━ 
+  
+Origin → Brazil                        
+Exploring → -1 / 0 / 3
+Stack → C / C++ / ASM     
+Class → fuderoso           
 </pre>
 
 <br>
