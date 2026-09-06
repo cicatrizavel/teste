@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="gif" width="90%"/>
+<img src="PinSaver_GIF_j9xi5n16u.gif" width="90%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
