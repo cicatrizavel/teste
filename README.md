@@ -57,27 +57,11 @@
 
 <br>
 
-## 📈 Statistics
-
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="꒰ _ 🌸 。мαяιη ◟ `` ˖.jpeg" width="100%"/>
-
-</td>
-<td width="65%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahnishiura&theme=dark&hide_border=true&background=0D1117&border=0D1117&stroke=FFFFFF&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=E5E7EB" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ### ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺
 
 <p align="center">
-  <img src="_.gif" width="100%"/>
+  <img src="_ (1).gif" width="100%"/>
 </p>
 
 <br>
