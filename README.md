@@ -50,14 +50,10 @@
 
 <br>
 
-## ݁ ˖Ი𐑼⋆ Sobre mim
+## ╋━
 
--  ׅ 🪷Focada em **desenvolvimento Backend**
--  ׅ 🪷Já sei construir APIs com **FastAPI**
--  ׅ 🪷Também tenho experiência com **Flask**
--  ׅ 🪷Atualmente estudando **SQLAlchemy** e **SQL**
--  ׅ 🪷Atualmente usando sistema operacional **Linux**
--  ׅ 🪷Sempre buscando entender melhor como sistemas funcionam por trás das telas
+-  ׅTkk:@angelshuntme
+-  dc:@contraisrael
 
 <br>
 
@@ -86,21 +82,4 @@
 
 <br>
 
-## 📊 Linguagens & Repositórios
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nahnishiura&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FFFFFF&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nahnishiura&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=E5E7EB&bg_color=0D1117"/>
-</p>
-
-<br>
-
-## 📌 Em estudo agora
-
-| Tecnologia | Status |
-|---|---|
-| Python | ✅ Sólido |
-| FastAPI | ✅ Já domino o básico/intermediário |
-| Flask | 🟡 Conheço, uso quando preciso |
-| SQLAlchemy | 🔵 Estudando |
-| SQL | 🔵 Estudando |
