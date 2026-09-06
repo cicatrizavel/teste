@@ -12,12 +12,12 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| **Origin** | Brazil |
-| **Exploring** | -1 / 0 / 3 |
-| **Stack** | C / C++ / ASM |
-| **Class** | fuderoso |
+<table align="center">
+<tr><td align="center">♟️ <b>Origin</b></td><td align="center">Brazil</td></tr>
+<tr><td align="center">♞ <b>Exploring</b></td><td align="center">-1 / 0 / 3</td></tr>
+<tr><td align="center">♜ <b>Stack</b></td><td align="center">C / C++ / ASM</td></tr>
+<tr><td align="center">♛ <b>Class</b></td><td align="center">fuderoso</td></tr>
+</table>
 
 </div>
 
