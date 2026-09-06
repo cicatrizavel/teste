@@ -38,7 +38,9 @@
 
 ### Technologies
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite,html,css,git,github,vscode&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts" />
+</p>
 
 </div>
 
