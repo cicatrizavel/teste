@@ -14,8 +14,8 @@
   ╋━ 
   
 Origin → Brazil                        
- Exploring → -1 / 0 / 3                       
- Stack → C / C++ / ASM                        
+  Exploring → -1 / 0 / 3                       
+  Stack → C / C++ / ASM                        
  Class → fuderoso                          
 </pre>
 
