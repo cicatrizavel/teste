@@ -10,14 +10,16 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<pre>
-  ╋━ 
-  
-Origin → Brazil                        
-  Exploring → -1 / 0 / 3                       
-  Stack → C / C++ / ASM                        
- Class → fuderoso                          
-</pre>
+<div align="center">
+
+| | |
+|---|---|
+| **Origin** | Brazil |
+| **Exploring** | -1 / 0 / 3 |
+| **Stack** | C / C++ / ASM |
+| **Class** | fuderoso |
+
+</div>
 
 <br>
 
