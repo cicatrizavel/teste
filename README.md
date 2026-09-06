@@ -28,7 +28,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="angel-02.jpeg" width="100%"/>
+<img src="olho.gif" width="100%"/>
 
 <br>
 
